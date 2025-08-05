@@ -38,9 +38,7 @@ The program allows you to:
 
 ### Option 1: Run in Browser Console (Recommended)
 
-1. Open any website
+1. Using VS code live server extension, launch index.html
 2. Press `F12` or right-click → Inspect → Go to `Console` tab
-3. Copy and paste the code from `expense-tracker.js`
 4. Run the following command:
-   ```javascript
-   startExpenseTracker();
+   > startExpenseTracker()
