@@ -25,6 +25,7 @@ const getCurrentDate = () => new Date().toISOString().split("T")[0]
 
 function showMenu() {
   console.log("\n=== EXPENSE TRACKER ===")
+  console.log("\n\n\n\n")
   console.log("1. Add Expense")
   console.log("2. View All Expenses")
   console.log("3. View by Category")
